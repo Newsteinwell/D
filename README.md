@@ -1,2 +1,2 @@
-# D
-some things about memories
+#  RL
+some things about RL
